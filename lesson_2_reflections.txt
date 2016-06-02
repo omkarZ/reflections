@@ -1,0 +1,6 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+>>> Git won't track any files by itself and won't make a first commit either. I might use it to start version controlling of an existing project or a new project.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+>>> It provides me the flexiblity to choose which files will be commited next. Git is tracking the files in the staging area, not necesarrily all the files in the working directory, i might be wrong.
+
