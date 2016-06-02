@@ -4,3 +4,4 @@
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 >>> It provides me the flexiblity to choose which files will be commited next. Git is tracking the files in the staging area, not necesarrily all the files in the working directory, i might be wrong.
 
+3. 
